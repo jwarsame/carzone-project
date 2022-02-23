@@ -1,0 +1,850 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "NY",
+        "city": "New York City",
+        "color": "White",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "Used",
+        "price": 45000,
+        "description": "<h3>EXTREME&nbsp;PERFORMANCE&nbsp;AND&nbsp;DRIVING&nbsp;THRILLS</h3>\r\n\r\n<p>The Ferrari 488 GTB name marks a return to the classic Ferrari model designation with the 488 in its moniker indicating the engine&#39;s unitary displacement, while the GTB stands for Gran Turismo Berlinetta.</p>",
+        "car_photo": "photo/2021/12/25/1902536891.jpg",
+        "car_photo_1": "photos/2021/12/25/1902536917.jpg",
+        "car_photo_2": "photos/2021/12/25/1902537043.jpg",
+        "car_photo_3": "photos/2021/12/25/1902537077.jpg",
+        "car_photo_4": "photos/2021/12/25/1902537082.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Alarm System,Power Steering",
+        "body_style": "Sport",
+        "engine": "3.4L Mid-Engine V6",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 10000,
+        "doors": "2",
+        "passengers": 2,
+        "vin_no": "WP0A8745645645656434987",
+        "milage": 5,
+        "fuel_type": "Premier",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-12-25T04:53:55Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "MI",
+        "city": "Detroit",
+        "color": "Black",
+        "model": "Edge",
+        "year": 2017,
+        "condition": "Used",
+        "price": 25000,
+        "description": "<h2>The New Era of Edge</h2>\r\n\r\n<p>With the bold design and impressive performance of the 2022 Ford Edge, you&rsquo;ll never have to sacrifice substance for style again. Plus, the Edge you love now gives you even more with standard all-wheel-drive on every model.</p>",
+        "car_photo": "photo/2021/12/25/1901478607.jpg",
+        "car_photo_1": "photos/2021/12/25/1901478618.jpg",
+        "car_photo_2": "photos/2021/12/25/1901478646.jpg",
+        "car_photo_3": "photos/2021/12/25/1901478672.jpg",
+        "car_photo_4": "photos/2021/12/25/1901478687.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,Reversing Camera,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.2L Mid-Engine V6",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 15000,
+        "doors": "4",
+        "passengers": 6,
+        "vin_no": "WP0A8745645645656434986",
+        "milage": 7,
+        "fuel_type": "Regular gas",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-12-25T05:10:03Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "Jaguar F-PACE",
+        "state": "CA",
+        "city": "Los Angeles",
+        "color": "Black",
+        "model": "F-PACE",
+        "year": 2017,
+        "condition": "Used",
+        "price": 30000,
+        "description": "<h2>CHOOSE YOUR F-PACE</h2>\r\n\r\n<p>Jaguar F-PACE model offers a range of distinctive design features and is available with a choice of engines, including the fuel economy-enhancing Plug\u2011in Hybrid.</p>",
+        "car_photo": "photo/2021/12/25/1902932542.jpg",
+        "car_photo_1": "photos/2021/12/25/1902932528.jpg",
+        "car_photo_2": "photos/2021/12/25/1902932514.jpg",
+        "car_photo_3": "photos/2021/12/25/1902932503.jpg",
+        "car_photo_4": "",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,Power Steering,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V8",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 12000,
+        "doors": "4",
+        "passengers": 6,
+        "vin_no": "WP0A8745645645656434989",
+        "milage": 23,
+        "fuel_type": "Regular gas",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2021-12-25T05:15:49Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "Toyota 4Runner",
+        "state": "IL",
+        "city": "Chicago",
+        "color": "Silver",
+        "model": "4Runner",
+        "year": 2018,
+        "condition": "Used",
+        "price": 23000,
+        "description": "<h4>Toyota 4Runner TRD Sport&#39;s advanced capability</h4>\r\n\r\n<p>Featuring an X-REAS suspension, TRD Sport helps you confidently corner and carve through roads without breaking a sweat. And it&rsquo;s equipped with 20-in. alloy wheels and premium tires for enhanced traction.</p>",
+        "car_photo": "photo/2021/12/25/1893633875.jpg",
+        "car_photo_1": "photos/2021/12/25/1893633879.jpg",
+        "car_photo_2": "photos/2021/12/25/1893633884.jpg",
+        "car_photo_3": "photos/2021/12/25/1896836883.jpg",
+        "car_photo_4": "photos/2021/12/25/1896836887.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "4.0 L V6",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 9,
+        "doors": "4",
+        "passengers": 6,
+        "vin_no": "WP0A8745645645656434985",
+        "milage": 15000,
+        "fuel_type": "Regular gas",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-12-25T05:21:28Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "2018 Toyota Carolla",
+        "state": "IA",
+        "city": "Cedar Rapids",
+        "color": "White",
+        "model": "Carolla",
+        "year": 2018,
+        "condition": "Used",
+        "price": 18000,
+        "description": "<p>Toyota Carolla best in class</p>",
+        "car_photo": "photo/2022/01/11/1900893299.jpg",
+        "car_photo_1": "photos/2022/01/11/1900893311.jpg",
+        "car_photo_2": "photos/2022/01/11/1900893319.jpg",
+        "car_photo_3": "photos/2022/01/11/1900893329.jpg",
+        "car_photo_4": "photos/2022/01/11/1900893391.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Alarm System,Wind Deflector,Bluetooth Handset",
+        "body_style": "Sedan",
+        "engine": "2.0",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 10002,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "WP0A8745645645656434980",
+        "milage": 15393,
+        "fuel_type": "Regular gas",
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_date": "2022-01-11T06:28:41Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 6,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "TX",
+        "city": "Dallas",
+        "color": "Black",
+        "model": "F-250",
+        "year": 2017,
+        "condition": "Used",
+        "price": 26000,
+        "description": "<p>Ford F-250 Super Duty</p>",
+        "car_photo": "photo/2022/01/11/1894300894.jpg",
+        "car_photo_1": "photos/2022/01/11/1894300905.jpg",
+        "car_photo_2": "photos/2022/01/11/1894300920.jpg",
+        "car_photo_3": "photos/2022/01/11/1900155012.jpg",
+        "car_photo_4": "photos/2022/01/11/1900155133.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Alarm System,Power Steering,Reversing Camera,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "Truck",
+        "engine": "7.3l v8",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 2500,
+        "doors": "2",
+        "passengers": 4,
+        "vin_no": "WP0A8745645645656434983",
+        "milage": 1234,
+        "fuel_type": "Premier",
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_date": "2022-01-11T06:34:46Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Martin",
+        "last_name": "Smith",
+        "designation": "Creative Director",
+        "photo": "photos/2021/12/17/avatar-11_ivJrN1Z.jpg",
+        "facebook_link": "http://www.facebook.com",
+        "twitter_link": "http://www.twitter.com",
+        "google_plus_link": "http://www.google.com",
+        "created_date": "2021-12-17T18:26:12.685Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Stone",
+        "last_name": "Carolyn",
+        "designation": "Web Developer",
+        "photo": "photos/2021/12/17/avatar-9.jpg",
+        "facebook_link": "http://www.facebook.com",
+        "twitter_link": "http://www.twitter.com",
+        "google_plus_link": "http://www.google.com",
+        "created_date": "2021-12-17T18:27:28.321Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Brandon",
+        "last_name": "Miller",
+        "designation": "Manager",
+        "photo": "photos/2021/12/17/avatar-3.jpg",
+        "facebook_link": "http://www.facebook.com",
+        "twitter_link": "http://www.twitter.com",
+        "google_plus_link": "http://www.google.com",
+        "created_date": "2021-12-17T18:28:37.973Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "Michelle",
+        "last_name": "Nelson",
+        "designation": "Support Manager",
+        "photo": "photos/2021/12/17/avatar-2.jpg",
+        "facebook_link": "http://www.facebook.com",
+        "twitter_link": "http://www.twitter.com",
+        "google_plus_link": "http://www.google.com",
+        "created_date": "2021-12-17T18:29:42.220Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 6,
+    "fields": {
+        "first_name": "David",
+        "last_name": "Marshall",
+        "designation": "CEO",
+        "photo": "photos/2021/12/17/avatar-12.jpg",
+        "facebook_link": "http://www.facebook.com",
+        "twitter_link": "http://www.twitter.com",
+        "google_plus_link": "http://www.google.com",
+        "created_date": "2021-12-17T18:31:05.910Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "Warka",
+        "last_name": "Ali",
+        "car_id": 6,
+        "customer_need": "I'd like to know your best price for this",
+        "car_title": "2017 Ford F-250 Super Duty",
+        "city": "Dallas",
+        "state": "Michigan",
+        "email": "Ali@hotmail.com",
+        "phone": "7860985645",
+        "message": "I need more information on this car",
+        "user_id": 2,
+        "create_date": "2022-02-07T03:42:37.417Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "Martin ",
+        "last_name": "Marshall",
+        "car_id": 6,
+        "customer_need": "I'd like to test drive this",
+        "car_title": "2017 Ford F-250 Super Duty",
+        "city": "Dallas",
+        "state": "Texas",
+        "email": "martin45@gmail.com",
+        "phone": "",
+        "message": "I want to test drive this car",
+        "user_id": 1,
+        "create_date": "2022-02-09T02:37:14.274Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 3,
+    "fields": {
+        "first_name": "Jabarti",
+        "last_name": "Warsame",
+        "car_id": 4,
+        "customer_need": "I'd like to test drive this",
+        "car_title": "Toyota 4Runner",
+        "city": "C",
+        "state": "Illinois",
+        "email": "hi-din@hotmail.com",
+        "phone": "",
+        "message": "Test drive",
+        "user_id": 2,
+        "create_date": "2022-02-09T03:24:07.136Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 4,
+    "fields": {
+        "first_name": "Jabarti",
+        "last_name": "Warsame",
+        "car_id": 1,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ferrari 488 GTB",
+        "city": "New York City",
+        "state": "New York",
+        "email": "hi-din@hotmail.com",
+        "phone": "",
+        "message": "",
+        "user_id": 2,
+        "create_date": "2022-02-10T02:07:52.661Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 5,
+    "fields": {
+        "first_name": "Warka",
+        "last_name": "Ali",
+        "car_id": 3,
+        "customer_need": "I'm interested in this",
+        "car_title": "Jaguar F-PACE",
+        "city": "Los Angeles",
+        "state": "California",
+        "email": "Ali@hotmail.com",
+        "phone": "",
+        "message": "",
+        "user_id": 1,
+        "create_date": "2022-02-10T03:19:18.042Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 6,
+    "fields": {
+        "first_name": "kaka",
+        "last_name": "ka",
+        "car_id": 5,
+        "customer_need": "I'm interested in this",
+        "car_title": "2018 Toyota Carolla",
+        "city": "Cedar Rapids",
+        "state": "Iowa",
+        "email": "ka0@gmail.com",
+        "phone": "",
+        "message": "",
+        "user_id": 3,
+        "create_date": "2022-02-10T03:23:01.312Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$bpKfAn1QW4mT$OOTljf83OdIVibjFtwcf9vBkJWyKqDfp0e5dEEzcW/A=",
+        "last_login": "2022-02-23T01:34:47.364Z",
+        "is_superuser": true,
+        "username": "jabartiwarsame",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-12-17T05:37:18.475Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$RaWhmNkaL9cD$7F3yZdOd/NjgM//dkle2+LT3ZOZg+IQKjC7n7J3knlA=",
+        "last_login": "2022-02-09T03:22:06.892Z",
+        "is_superuser": false,
+        "username": "warka",
+        "first_name": "Jabarti",
+        "last_name": "Warsame",
+        "email": "hi-din@hotmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-01-26T04:50:43.710Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$ABSFGUQ5V5VN$IMGsoTOhDUMmh+utqnoREiEyb3BAv12zenOqyZaFQXQ=",
+        "last_login": "2022-02-10T03:22:27.967Z",
+        "is_superuser": false,
+        "username": "kaka",
+        "first_name": "kaka",
+        "last_name": "ka",
+        "email": "ka0@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-02-10T03:22:27.756Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "9ynxsh1k1rzmqxkrvxbs3rnp4e84t323",
+    "fields": {
+        "session_data": "ODYwYTY2OGZhOWQwYTg4YTFkYzUyMDQxYmI0MWJhZTE5NDc4NDMxMzp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJhYjZlYTdhYzA1OWQxM2VmNzE0YjI0NDVhN2Q3ZWZhYTUzMTUwOWMwIn0=",
+        "expire_date": "2021-12-31T05:38:44.119Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "cyxi2rpfkb0410zgi0h6qln9tlaovn50",
+    "fields": {
+        "session_data": "Y2VhZjQwMDZiNmQ5YjMwMjYwOTg5NzZhYjI3NzFmOWIzYjdjZTlhYzp7Il9hdXRoX3VzZXJfaWQiOiIyIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJjZGQzOWIyYzMyMTA1YzEwNTU0MThmZmU0NDYxNDQ0MjkwZGNmODkyIn0=",
+        "expire_date": "2022-02-10T06:10:32.322Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "dizbtdc3ws186g8r0xzcdievzlbnrmnd",
+    "fields": {
+        "session_data": "NmUwMzI4MDg3YWJlYjdiMjk1ZjBlMGZmMmUxM2ZmNWEzMmU1N2Y5ODp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJlMDM1YWM3N2MxYWEwNDEzZWY1YWM3YjU0ZDY1Y2U4MzY2MDc0M2NkIn0=",
+        "expire_date": "2022-01-25T07:06:22.283Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "lw89uyldi6dgigc3wwsicwkxcpqq9v74",
+    "fields": {
+        "session_data": "YjkyMDRiMDNhOThlMjdiZTU0MDdmYzI0ZjYzOTgzODhmZGJhZTZiNDp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiJjOWE4NmRmYjhiYzY4M2MxZjcwZDIzNzY5MTA3MGU0NGNmODg2M2I3In0=",
+        "expire_date": "2022-03-09T01:34:47.369Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "1029776003352-4uf1srbj8982io287hjckg6ubsmeppo8.apps.googleusercontent.com",
+        "secret": "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",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2021-12-17T06:15:03.444Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2021-12-17T06:28:40.121Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Kaka",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2021-12-17T18:24:12.803Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Kaka",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2021-12-17T18:26:12.688Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Martin",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2021-12-17T18:27:28.323Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Stone",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2021-12-17T18:28:37.975Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Brandon",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2021-12-17T18:29:42.224Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Michelle",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2021-12-17T18:31:05.912Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "David",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2021-12-18T02:16:58.042Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "David",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2021-12-25T04:53:57.578Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2021-12-25T05:10:05.409Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Car object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2021-12-25T05:15:51.967Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Car object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2021-12-25T05:21:30.818Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Car object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2022-01-11T06:21:41.431Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Toyota 4Runner",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2022-01-11T06:22:09.143Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Jaguar F-PACE",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2022-01-11T06:22:38.535Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2022-01-11T06:28:52.910Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2018 Toyota Carolla",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2022-01-11T06:34:50.012Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2022-02-02T02:31:45.110Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2022-02-02T03:13:31.462Z",
+        "user": [
+            "jabartiwarsame"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}
+]
